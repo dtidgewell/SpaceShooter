@@ -9,3 +9,6 @@ VERSION or DATE: May 2014
 HOW TO START THIS PROJECT:
 AUTHORS: Dillon Watts, Steven Johnson
 USER INSTRUCTIONS: Open in IDE of your choice. Create new Board to run.
+
+KNOWN ISSUE: This game will not run in certain environments. It runs fine in BlueJ on some
+             computers, but will only run in Eclipse on my computer, for an unknown reason.
