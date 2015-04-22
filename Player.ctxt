@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Player()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ shoot()
+comment3.params=
+comment3.target=java.util.ArrayList\ getBullets()
+comment4.params=e
+comment4.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment5.params=e
+comment5.target=void\ keyReleased(java.awt.event.KeyEvent)
+numComments=6
