@@ -12,3 +12,5 @@ USER INSTRUCTIONS: Open in IDE of your choice. Create new Board to run.
 
 KNOWN ISSUE: This game will not run in certain environments. It runs fine in BlueJ on some
              computers, but will only run in Eclipse on my computer, for an unknown reason.
+
+EDIT 10/2/2016: Please note that I've changed my last name from Watts to Tidgewell since working on this project.
